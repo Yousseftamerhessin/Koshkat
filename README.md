@@ -14,11 +14,25 @@
   - **Multi-language Support**: Using Easy Localization, the app supports both English and Arabic languages for a seamless user experience.
 
 ## Screens
-1. **Login Screen**: Allows admin users to log in with email and password.
-2. **Order Screen**: Displays a list of orders and individual order details.
-3. **Product Management Screen**: Interface to view the list of products available.
+1. **Login Screen**: 
+   - Allows admin users to log in with email and password.
+   - ![Login Screen](path/to/login_screen.png)
+
+2. **Order Screen**: 
+   - Displays a list of orders and individual order details.
+   - ![Order Screen](path/to/order_screen.png)
+
+3. **Product Display Screen**: 
+   - Interface to view the list of products available.
+   - ![Product Display Screen](path/to/product_display_screen.png)
+
 4. **Product Edit Screen**: 
    - Interface to edit existing products.
+   - ![Product Edit Screen](path/to/product_edit_screen.png)
+
+5. **Product Add Screen**: 
+   - Interface to add new products.
+   - ![Product Add Screen](path/to/product_add_screen.png)
 
 5. **Product Add Screen**: 
    - Interface to add new products..
