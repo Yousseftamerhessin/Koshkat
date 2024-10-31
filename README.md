@@ -1,6 +1,6 @@
 # Koshkat - Admin E-commerce Application
 
-![Koshkat Logo](https://github.com/Yousseftamerhessin/Koshkat/issues/1#issue-2627511408) <!-- Add a link to the app logo if available -->
+![Koshkat Logo](link-to-your-image.png) <!-- Replace with the direct link to your image -->
 
 ## Overview
 **Koshkat** is an admin application for an e-commerce solution developed using Flutter. The app allows users to view their sales, add products, and edit existing products and their images.
