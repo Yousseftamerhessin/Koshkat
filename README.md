@@ -33,7 +33,7 @@
 
 5. **Product Add Screen**: 
    - Interface to add new products.
-   - ![Product Add Screen](path/to/product_add_screen.png)
+   - ![Product Add Screen](https://github.com/user-attachments/assets/f1595179-4f9a-4a36-8b16-979b628206d3)
 
 
 ## Tech Stack
