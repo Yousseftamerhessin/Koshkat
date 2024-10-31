@@ -29,7 +29,8 @@
 
 4. **Product Edit Screen**: 
    - Interface to edit existing products.
-   - ![Product Edit Screen](path/to/product_edit_screen.png)
+   - ![Product Edit Screen](https://github.com/user-attachments/assets/e26f91c2-97ac-457b-8f36-c4ade6ef5eb9)
+
 
 5. **Product Add Screen**: 
    - Interface to add new products.
