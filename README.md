@@ -20,7 +20,7 @@
 
 2. **Order Screen**: 
    - Displays a list of orders and individual order details.
-   - ![Order Screen](path/to/order_screen.png)
+   - ![Order Screen](https://github.com/user-attachments/assets/90d70e0e-5bf2-4340-a126-174d3d854fa0)
 
 3. **Product Display Screen**: 
    - Interface to view the list of products available.
