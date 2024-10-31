@@ -25,7 +25,7 @@
 
 3. **Product Display Screen**: 
    - Interface to view the list of products available.
-   - ![Product Display Screen]()
+   - ![Product Display Screen](https://github.com/user-attachments/assets/794d314a-6b74-425c-bbcc-6c0a92defcef)
 
 4. **Product Edit Screen**: 
    - Interface to edit existing products.
