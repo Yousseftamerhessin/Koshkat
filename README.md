@@ -27,7 +27,3 @@
 - **State Management**: Implemented using Flutter Bloc (Cubit) for organized and maintainable state handling.
 - **Localization**: Easy Localization package used for supporting both English and Arabic languages.
 
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Yousseftamerhessin/Koshkat.git
