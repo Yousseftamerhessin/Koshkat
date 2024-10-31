@@ -1,6 +1,6 @@
 # Koshkat - Admin E-commerce Application
 
-![Koshkat Logo](link-to-logo.png) <!-- قم بإضافة رابط لشعار التطبيق إذا كان متوفرًا -->
+![Koshkat Logo]([link-to-logo.png](https://github.com/Yousseftamerhessin/Koshkat/issues/1#issue-2627511408)) <!-- قم بإضافة رابط لشعار التطبيق إذا كان متوفرًا -->
 
 ## Overview
 **Koshkat** is an admin application built with Flutter for managing an e-commerce solution focused on pet products, specifically for cats. This app provides an easy-to-use interface that allows admin users to manage their product catalog, view sales, and maintain order details.
