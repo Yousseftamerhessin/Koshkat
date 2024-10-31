@@ -11,7 +11,7 @@
 - **Product Management**:
   - **Add New Products**: Add new products with details like name, description, price, and images.
   - **Edit Existing Products**: Update product information, prices, stock levels, and images.
-  - **Multi-language Support**: Using Easy Localization, the app supports both English and Arabic languages for a seamless user experience.
+- **Multi-language Support**: Using Easy Localization, the app supports both English and Arabic languages for a seamless user experience.
 
 ## Screens
 1. **Login Screen**: 
