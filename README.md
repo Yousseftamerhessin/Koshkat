@@ -15,7 +15,7 @@
 
 ## Screens
 1. **Login Screen**: 
-   - Allows admin users to log in with email and password.
+   - Allows admin users to log in with email and password using the registration ID.
    - ![Login Screen](https://github.com/user-attachments/assets/566b8c0e-5825-49ae-a42d-e6c3ddf079a0)
 
 2. **Order Screen**: 
