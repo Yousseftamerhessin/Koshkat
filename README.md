@@ -34,8 +34,6 @@
    - Interface to add new products.
    - ![Product Add Screen](path/to/product_add_screen.png)
 
-5. **Product Add Screen**: 
-   - Interface to add new products..
 
 ## Tech Stack
 - **Flutter**: Used for building the UI and ensuring a responsive and consistent user experience across different devices.
