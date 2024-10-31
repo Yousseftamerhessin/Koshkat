@@ -16,7 +16,7 @@
 ## Screens
 1. **Login Screen**: 
    - Allows admin users to log in with email and password.
-   - ![Login Screen](https://github.com/Yousseftamerhessin/Koshkat/issues/2#issue-2627562733)
+   - ![Login Screen](https://github.com/Yousseftamerhessin/Koshkat/issues/2#issue-2627562733)<!-- Replace with the direct link to your image -->
 
 2. **Order Screen**: 
    - Displays a list of orders and individual order details.
