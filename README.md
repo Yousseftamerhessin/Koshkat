@@ -16,8 +16,12 @@
 ## Screens
 1. **Login Screen**: Allows admin users to log in with email and password.
 2. **Order Screen**: Displays a list of orders and individual order details.
-3. **Product Management Screen**: Interface to add new products, edit existing products, and delete products if needed.
-4. **Sales Dashboard**: Provides statistics on sales, revenue, and active products.
+3. **Product Management Screen**: Interface to view the list of products available.
+4. **Product Edit Screen**: 
+   - Interface to edit existing products.
+
+5. **Product Add Screen**: 
+   - Interface to add new products..
 
 ## Tech Stack
 - **Flutter**: Used for building the UI and ensuring a responsive and consistent user experience across different devices.
